@@ -1,0 +1,273 @@
+{
+    "store": {
+        "cb48b331-f3aa-4084-9ac1-98f7200600b3": [
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "what is my mum's name?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "I'm sorry, but I don't have information about your mum's name."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "what is my name again?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "I don't have your name stored in my memory. If you'd like, you can tell me your name, and I can remember it for future reference."
+                    }
+                ]
+            }
+        ],
+        "d88db498-65e1-4d63-a4a6-8f0e055159ad": [
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "my name is rez"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Nice to meet you, Rez! How can I assist you today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "my name is bob"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Got it, Bob! How can I assist you today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "I used to be called rez"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Thank you for sharing that, Bob! If there's anything specific you'd like to discuss or ask about, feel free to let me know."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "what is my name and what was I called before?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Your current name is Bob, and you were previously called Rez."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "my current name is now jack. what is my name?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Your current name is Jack."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "what is today's date?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Today's date is February 22, 2026."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "today is 1 Mar 2025"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Thank you for the correction! Today is March 1, 2025. If you need any further assistance, feel free to ask!"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "remember it"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "I've saved the date as March 1, 2025. If there's anything else you'd like to do or remember, just let me know!"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "what is today's date?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Your current date is stored as March 1, 2025. If you have any other questions or need assistance, feel free to ask!"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "what is today's date by your count?"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "additional_kwargs": {},
+                "blocks": [
+                    {
+                        "block_type": "text",
+                        "text": "Your current date according to my system is February 22, 2026. If you have any other questions or need assistance, feel free to ask!"
+                    }
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "d88db498-65e1-4d63-a4a6-8f0e055159ad": [
+            {
+                "key": "user_name",
+                "value": "Bob"
+            },
+            {
+                "key": "current_name",
+                "value": "bob"
+            },
+            {
+                "key": "previous_name",
+                "value": "rez"
+            },
+            {
+                "key": "current_date",
+                "value": "March 1, 2025"
+            },
+            {
+                "key": "today_date",
+                "value": "March 1, 2025"
+            }
+        ]
+    },
+    "class_name": "SimpleChatStore"
+}
